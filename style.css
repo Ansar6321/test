@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+
+body {
+    margin: 0;
+}
+
+body > * {
+    padding-inline: 10%;
+}
+
+.title {
+    font-family: 'Roboto Slab';
+    font-size: 45px;
+}
